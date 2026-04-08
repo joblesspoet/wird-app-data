@@ -1,7 +1,15 @@
 {
-  "version": "1.0",
-  "last_updated": "2026-04-08",
-  "categories": ["Tasbeeh321", "After Salah", "Salawat123", "Morning", "99 Names", "General"],
+  "version": "1.2",
+  "last_updated": "2026-04-09",
+  "categories": [
+    { "id": "tasbeeh", "label": "Tasbeeh" },
+    { "id": "after_salah", "label": "After Salah" },
+    { "id": "salawat", "label": "Salawat" },
+    { "id": "morning", "label": "Morning" },
+    { "id": "evening", "label": "Evening" },
+    { "id": "99_names", "label": "99 Names" },
+    { "id": "general", "label": "General" }
+  ],
   "zikrs": [
     { 
       "id": "subhanallah", 
@@ -9,6 +17,7 @@
       "transliteration": "SubhanAllah", 
       "meaning": "Glory be to Allah", 
       "recommended_count": 33, 
+      "category_id": "tasbeeh",
       "category": "Tasbeeh",
       "reference": "Sahih Muslim", 
       "description": "One who recites this 100 times a day will have 1,000 good deeds recorded and 1,000 sins wiped away."
@@ -19,6 +28,7 @@
       "transliteration": "Alhamdulillah", 
       "meaning": "All praise is for Allah", 
       "recommended_count": 33, 
+      "category_id": "tasbeeh",
       "category": "Tasbeeh", 
       "reference": "Al-Quran" 
     },
@@ -28,6 +38,7 @@
       "transliteration": "Allahu Akbar", 
       "meaning": "Allah is the Greatest", 
       "recommended_count": 33, 
+      "category_id": "tasbeeh",
       "category": "Tasbeeh", 
       "reference": "Al-Quran" 
     },
@@ -37,6 +48,7 @@
       "transliteration": "Astaghfirullah", 
       "meaning": "I seek forgiveness from Allah", 
       "recommended_count": 100, 
+      "category_id": "tasbeeh",
       "category": "Tasbeeh", 
       "reference": "Al-Quran" 
     },
@@ -46,6 +58,7 @@
       "transliteration": "La ilaha illallah", 
       "meaning": "There is no god but Allah", 
       "recommended_count": 100, 
+      "category_id": "tasbeeh",
       "category": "Tasbeeh", 
       "reference": "Sahih Bukhari" 
     },
@@ -55,6 +68,7 @@
       "transliteration": "La hawla wala quwwata illa billah", 
       "meaning": "There is no power except with Allah", 
       "recommended_count": 100, 
+      "category_id": "tasbeeh",
       "category": "Tasbeeh", 
       "reference": "Sahih Bukhari", 
       "description": "This is a treasure from the treasures of Paradise." 
@@ -65,6 +79,7 @@
       "transliteration": "Astaghfirullah", 
       "meaning": "I seek forgiveness from Allah (Recite 3x)", 
       "recommended_count": 3, 
+      "category_id": "after_salah",
       "category": "After Salah", 
       "reference": "Sahih Muslim" 
     },
@@ -74,15 +89,17 @@
       "transliteration": "Allahumma Antas Salam...", 
       "meaning": "O Allah, You are Peace and from You comes peace", 
       "recommended_count": 1, 
+      "category_id": "after_salah",
       "category": "After Salah", 
       "reference": "Sahih Muslim" 
     },
     { 
       "id": "la-ilaha-wahdahu", 
-      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ", 
+      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِیکَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى کُلِّ شَیْءٍ قَدِیرٌ", 
       "transliteration": "La ilaha illallah...", 
       "meaning": "None has the right to be worshipped but Allah Alone", 
       "recommended_count": 1, 
+      "category_id": "after_salah",
       "category": "After Salah", 
       "reference": "Sahih Bukhari" 
     },
@@ -92,6 +109,7 @@
       "transliteration": "Ayatul Kursi", 
       "meaning": "Recite silently after every obligatory prayer", 
       "recommended_count": 1, 
+      "category_id": "after_salah",
       "category": "After Salah", 
       "reference": "Nasai", 
       "description": "Whoever recites this after every prayer, nothing but death prevents him from entering Paradise." 
@@ -102,6 +120,7 @@
       "transliteration": "Allahumma a'inni ala dhikrika...", 
       "meaning": "O Allah, help me to remember You and thank You", 
       "recommended_count": 1, 
+      "category_id": "after_salah",
       "category": "After Salah", 
       "reference": "Abu Dawud" 
     },
@@ -111,6 +130,7 @@
       "transliteration": "Tasbih Fatimah", 
       "meaning": "SubhanAllah (33x), Alhamdulillah (33x), Allahu Akbar (34x)", 
       "recommended_count": 100, 
+      "category_id": "after_salah",
       "category": "After Salah", 
       "reference": "Sahih Bukhari" 
     },
@@ -120,6 +140,7 @@
       "transliteration": "Allahumma Salli ala Muhammad", 
       "meaning": "O Allah, send blessings upon Muhammad", 
       "recommended_count": 100, 
+      "category_id": "salawat",
       "category": "Salawat", 
       "reference": "Al-Quran" 
     },
@@ -129,6 +150,7 @@
       "transliteration": "Bismillah", 
       "meaning": "In the name of Allah", 
       "recommended_count": 0, 
+      "category_id": "general",
       "category": "General", 
       "reference": "Al-Quran" 
     },
@@ -138,6 +160,7 @@
       "transliteration": "Hasbiyallahu wa ni'mal wakeel", 
       "meaning": "Allah is sufficient for me and the best guardian", 
       "recommended_count": 0, 
+      "category_id": "morning",
       "category": "Morning", 
       "reference": "Al-Quran" 
     },
@@ -147,6 +170,7 @@
       "transliteration": "Ya Rahman", 
       "meaning": "O Most Merciful", 
       "recommended_count": 99, 
+      "category_id": "99_names",
       "category": "99 Names", 
       "reference": "Al-Quran" 
     },
@@ -156,6 +180,7 @@
       "transliteration": "SubhanakallaHumma wa bihamdika", 
       "meaning": "Glory be to You O Allah, and Your praise", 
       "recommended_count": 3, 
+      "category_id": "general",
       "category": "General", 
       "reference": "Abu Dawud" 
     },
@@ -165,6 +190,7 @@
       "transliteration": "Rabbana atina fid-dunya hasanatan", 
       "meaning": "Our Lord, give us good in this world and the next", 
       "recommended_count": 3, 
+      "category_id": "general",
       "category": "General", 
       "reference": "Al-Quran" 
     }
