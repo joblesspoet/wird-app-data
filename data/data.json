@@ -1,0 +1,172 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-08",
+  "categories": ["Tasbeeh", "After Salah", "Salawat", "Morning", "99 Names", "General"],
+  "zikrs": [
+    { 
+      "id": "subhanallah", 
+      "arabic": "سُبْحَانَ اللّٰه", 
+      "transliteration": "SubhanAllah", 
+      "meaning": "Glory be to Allah", 
+      "recommended_count": 33, 
+      "category": "Tasbeeh",
+      "reference": "Sahih Muslim", 
+      "description": "One who recites this 100 times a day will have 1,000 good deeds recorded and 1,000 sins wiped away."
+    },
+    { 
+      "id": "alhamdulillah", 
+      "arabic": "الْحَمْدُ لِلَّه", 
+      "transliteration": "Alhamdulillah", 
+      "meaning": "All praise is for Allah", 
+      "recommended_count": 33, 
+      "category": "Tasbeeh", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "allahuakbar", 
+      "arabic": "اللّٰهُ أَكْبَر", 
+      "transliteration": "Allahu Akbar", 
+      "meaning": "Allah is the Greatest", 
+      "recommended_count": 33, 
+      "category": "Tasbeeh", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "astaghfirullah", 
+      "arabic": "أَسْتَغْفِرُ اللّٰه", 
+      "transliteration": "Astaghfirullah", 
+      "meaning": "I seek forgiveness from Allah", 
+      "recommended_count": 100, 
+      "category": "Tasbeeh", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "lailahaillallah", 
+      "arabic": "لَا إِلَٰهَ إِلَّا اللّٰه", 
+      "transliteration": "La ilaha illallah", 
+      "meaning": "There is no god but Allah", 
+      "recommended_count": 100, 
+      "category": "Tasbeeh", 
+      "reference": "Sahih Bukhari" 
+    },
+    { 
+      "id": "lahawla", 
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰه", 
+      "transliteration": "La hawla wala quwwata illa billah", 
+      "meaning": "There is no power except with Allah", 
+      "recommended_count": 100, 
+      "category": "Tasbeeh", 
+      "reference": "Sahih Bukhari", 
+      "description": "This is a treasure from the treasures of Paradise." 
+    },
+    { 
+      "id": "astaghfirullah-3x", 
+      "arabic": "أَسْتَغْفِرُ اللهَ", 
+      "transliteration": "Astaghfirullah", 
+      "meaning": "I seek forgiveness from Allah (Recite 3x)", 
+      "recommended_count": 3, 
+      "category": "After Salah", 
+      "reference": "Sahih Muslim" 
+    },
+    { 
+      "id": "allahumma-intas-salam", 
+      "arabic": "اللَّهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالإِكْرَامِ", 
+      "transliteration": "Allahumma Antas Salam...", 
+      "meaning": "O Allah, You are Peace and from You comes peace", 
+      "recommended_count": 1, 
+      "category": "After Salah", 
+      "reference": "Sahih Muslim" 
+    },
+    { 
+      "id": "la-ilaha-wahdahu", 
+      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ", 
+      "transliteration": "La ilaha illallah...", 
+      "meaning": "None has the right to be worshipped but Allah Alone", 
+      "recommended_count": 1, 
+      "category": "After Salah", 
+      "reference": "Sahih Bukhari" 
+    },
+    { 
+      "id": "ayatul-kursi-salah", 
+      "arabic": "اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ...", 
+      "transliteration": "Ayatul Kursi", 
+      "meaning": "Recite silently after every obligatory prayer", 
+      "recommended_count": 1, 
+      "category": "After Salah", 
+      "reference": "Nasai", 
+      "description": "Whoever recites this after every prayer, nothing but death prevents him from entering Paradise." 
+    },
+    { 
+      "id": "allahumma-ainni", 
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ", 
+      "transliteration": "Allahumma a'inni ala dhikrika...", 
+      "meaning": "O Allah, help me to remember You and thank You", 
+      "recommended_count": 1, 
+      "category": "After Salah", 
+      "reference": "Abu Dawud" 
+    },
+    { 
+      "id": "subhan-alhamd-allah-33", 
+      "arabic": "تسبیح فاطمہ (33x)", 
+      "transliteration": "Tasbih Fatimah", 
+      "meaning": "SubhanAllah (33x), Alhamdulillah (33x), Allahu Akbar (34x)", 
+      "recommended_count": 100, 
+      "category": "After Salah", 
+      "reference": "Sahih Bukhari" 
+    },
+    { 
+      "id": "salawat", 
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّد", 
+      "transliteration": "Allahumma Salli ala Muhammad", 
+      "meaning": "O Allah, send blessings upon Muhammad", 
+      "recommended_count": 100, 
+      "category": "Salawat", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "bismillah", 
+      "arabic": "بِسْمِ اللّٰه", 
+      "transliteration": "Bismillah", 
+      "meaning": "In the name of Allah", 
+      "recommended_count": 0, 
+      "category": "General", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "hasbiyallah", 
+      "arabic": "حَسْبِيَ اللّٰهُ وَنِعْمَ الْوَكِيل", 
+      "transliteration": "Hasbiyallahu wa ni'mal wakeel", 
+      "meaning": "Allah is sufficient for me and the best guardian", 
+      "recommended_count": 0, 
+      "category": "Morning", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "yarrahman", 
+      "arabic": "يَا رَحْمَٰن", 
+      "transliteration": "Ya Rahman", 
+      "meaning": "O Most Merciful", 
+      "recommended_count": 99, 
+      "category": "99 Names", 
+      "reference": "Al-Quran" 
+    },
+    { 
+      "id": "subhanakallahumma", 
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ", 
+      "transliteration": "SubhanakallaHumma wa bihamdika", 
+      "meaning": "Glory be to You O Allah, and Your praise", 
+      "recommended_count": 3, 
+      "category": "General", 
+      "reference": "Abu Dawud" 
+    },
+    { 
+      "id": "dua-masura", 
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً", 
+      "transliteration": "Rabbana atina fid-dunya hasanatan", 
+      "meaning": "Our Lord, give us good in this world and the next", 
+      "recommended_count": 3, 
+      "category": "General", 
+      "reference": "Al-Quran" 
+    }
+  ]
+}
