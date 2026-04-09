@@ -193,6 +193,96 @@
       "category_id": "general",
       "category": "General", 
       "reference": "Al-Quran" 
-    }
+    },
+    {
+    "id": "ar-rahman",
+    "arabic": "الرَّحْمَنُ",
+    "transliteration": "Ar-Rahman",
+    "meaning": "The Most Gracious",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "ar-rahim",
+    "arabic": "الرَّحِيمُ",
+    "transliteration": "Ar-Rahim",
+    "meaning": "The Most Merciful",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-malik",
+    "arabic": "الْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "meaning": "The King",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-quddus",
+    "arabic": "الْقُدُّوسُ",
+    "transliteration": "Al-Quddus",
+    "meaning": "The Most Holy",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "as-salam",
+    "arabic": "السَّلاَمُ",
+    "transliteration": "As-Salam",
+    "meaning": "The Source of Peace",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-mumin",
+    "arabic": "الْمُؤْمِنُ",
+    "transliteration": "Al-Mu'min",
+    "meaning": "The Guardian of Faith",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-muhaymin",
+    "arabic": "الْمُهَيْمِنُ",
+    "transliteration": "Al-Muhaymin",
+    "meaning": "The Protector",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-aziz",
+    "arabic": "الْعَزِيزُ",
+    "transliteration": "Al-Aziz",
+    "meaning": "The Almighty",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-jabbar",
+    "arabic": "الْجَبَّارُ",
+    "transliteration": "Al-Jabbar",
+    "meaning": "The Compeller",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  },
+  {
+    "id": "al-mutakabbir",
+    "arabic": "الْمُتَكَبِّرُ",
+    "transliteration": "Al-Mutakabbir",
+    "meaning": "The Majestic",
+    "recommended_count": 100,
+    "category": "99_names",
+    "reference": "Al-Quran"
+  }
   ]
 }
