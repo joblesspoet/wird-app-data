@@ -1,8 +1,8 @@
 {
-  "version": "1.4",
+  "version": "1.2",
   "last_updated": "2026-04-10",
   "categories": [
-    { "id": "tasbeeh", "label_en": "Tasbeeh1234", "label_ar": "تسابيح", "label_ur": "تسبیحات" },
+    { "id": "tasbeeh", "label_en": "Tasbeeh", "label_ar": "تسابيح", "label_ur": "تسبیحات" },
     { "id": "after_salah", "label_en": "After Salah", "label_ar": "بعد الصلاة", "label_ur": "نماز کے بعد" },
     { "id": "salawat", "label_en": "Salawat", "label_ar": "صلوات", "label_ur": "درود شریف" },
     { "id": "morning", "label_en": "Morning", "label_ar": "أذكار الصباح", "label_ur": "صبح کے اذکار" },
