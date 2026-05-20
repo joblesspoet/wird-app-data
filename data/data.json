@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "last_updated": "2026-05-07",
+  "version": "1.4",
+  "last_updated": "2026-05-20",
   "categories": [
     { "id": "tasbeeh", "label_en": "Tasbeeh", "label_ar": "تسابيح", "label_ur": "تسبیحات" },
     { "id": "after_salah", "label_en": "After Salah", "label_ar": "بعد الصلاة", "label_ur": "نماز کے بعد" },
@@ -171,8 +171,7 @@
       "transliteration": "SubhanakallaHumma wa bihamdika", 
       "meaning": "Glory be to You O Allah, and Your praise", 
       "recommended_count": 3, 
-      "category_id": "general",
-      "category": "General", 
+      "category": "general", 
       "reference": "Abu Dawud" 
     },
     { 
@@ -181,8 +180,7 @@
       "transliteration": "Rabbana atina fid-dunya hasanatan", 
       "meaning": "Our Lord, give us good in this world and the next", 
       "recommended_count": 3, 
-      "category_id": "general",
-      "category": "General", 
+      "category": "general", 
       "reference": "Al-Quran" 
     },
     {
@@ -1227,16 +1225,6 @@
     "reference": "Sahih Al-Bukhari"
   },
   {
-    "id": "la-ilaha-illallah-wahdahu",
-    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
-    "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli shay'in qadeer",
-    "meaning": "There is no deity worthy of worship except Allah alone, with no partner. To Him belongs the dominion and to Him belongs all praise, and He is able to do all things.",
-    "recommended_count": 1,
-    "category_id": "after_salah",
-    "category": "After Salah",
-    "reference": "Sahih Al-Bukhari"
-  },
-  {
     "id": "subhanallah-la-hawla-wa-la-quwwah",
     "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
     "transliteration": "SubhanAllahi walhamdulillahi wa la ilaha illallahu wallahu akbar wa la hawla wa la quwwata illa billahil 'aliyyil 'azeem",
@@ -1385,7 +1373,18 @@
     "category_id": "general",
     "category": "General",
     "reference": "Hadith"
-  }
+  },
+    {
+  "id": "ya-musabbibal-asbab",
+  "arabic": "يَا مُسَبِّبَ الْأَسْبَابِ",
+  "transliteration": "Ya Musabbibal-Asbab",
+  "meaning": "O Causer of causes / O Creator of the means",
+  "recommended_count": 500,
+  "category_id": "general",
+  "category": "General",
+  "reference": "Common Islamic supplication / Dhikr",
+  "description": "A phrase used in supplication to call upon Allah as the One who creates and controls all means and causes."
+}
     
   ]
 }
