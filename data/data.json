@@ -1384,6 +1384,18 @@
   "category": "General",
   "reference": "Common Islamic supplication / Dhikr",
   "description": "A phrase used in supplication to call upon Allah as the One who creates and controls all means and causes."
+},
+
+    {
+  "id": "allahumma-inni-asaluka-min-fadlika",
+  "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ، فَإِنَّهُ لَا يَمْلِكُهَا إِلَّا أَنْتَ",
+  "transliteration": "Allahumma inni as'aluka min fadlika wa rahmatika fa innahu la yamlikuha illa anta",
+  "meaning": "O Allah, I ask You from Your bounty and mercy, for indeed none possesses them except You.",
+  "recommended_count": 10,
+  "category_id": "after_salah",
+  "category": "After Salah",
+  "reference": "Sunan Ibn Majah, Abu Dawud",
+  "description": "A supplication asking Allah for His bounty and mercy, commonly recited for sustenance and blessings."
 }
     
   ]
